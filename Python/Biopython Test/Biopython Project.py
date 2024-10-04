@@ -1,8 +1,8 @@
 from Bio.Blast import NCBIWWW
 from Bio import SeqIO, SearchIO
 
-help(NCBIWWW)
+#help(NCBIWWW)
 
-nuc_seq.description
+#nuc_seq.description
 
 #!ls
